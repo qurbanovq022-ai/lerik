@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mənim haqqimda</title>
+</head>
+<body>
+    <h1> Menim haqqimda</h1>
+    <p><b>Ad:</b>Qurban</p>
+    <p><b>Soyad:</b>Qurbanov</p>
+     <p><b>Dogum tarixi:</b>2008</p>
+     <p><b>gun.ay</b>04.01</p>
+     <p><b>Mekteb:</b>Lerik rayon Hamarat kend tam orta</p>
+
+     <h2>Yasadigin yer</h2>
+     <p>
+        <a href="https://lerik-ih.gov.az/az/rayon-haqqinda.html">Lerik haqqında məlumat</a>
+     </p>
+     <p>**Lerik – Azərbaycanın təbiət incisi**
+
+Lerik Azərbaycanın cənubunda, Talış dağlarının qoynunda yerləşən, füsunkar təbiəti ilə seçilən rayonlardan biridir. Rayon sıx meşələri, yaşıl dağları, təmiz havası və gözəl mənzərələri ilə məşhurdur. Lerik uzunömürlü insanları ilə də tanınır və bəzən uzunömürlülər diyarı adlandırılır. Burada yerləşən dağ kəndləri özünəməxsus gözəlliyi və qədim adət-ənənələri ilə diqqəti cəlb edir. Lerikin ərazisində yerləşən Bülüdül şəlaləsi və təbii meşəliklər turistlər üçün maraqlı məkanlardandır. Rayonun əhalisi qonaqpərvərliyi, milli mətbəxi və zəngin folkloru ilə seçilir. Lerik həm təbiət qoynunda istirahət etmək, həm də Azərbaycanın tarixi və mədəniyyəti ilə yaxından tanış olmaq istəyənlər üçün gözəl turizm məkanıdır.
+ 
+     </p>
+     <img src="lerik.jpeg">
+
+     
+        </body>
+</html>
